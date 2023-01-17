@@ -1,11 +1,10 @@
-#Test Change
-#test change 2
-#Written by Cameron Wehrfritz
+#Co-Written by Brad Olinger
+#Cameron Wehrfritz
 #and Natan Basisty, PhD
 #Schilling Lab, Buck Institute for Research on Aging
 #Novato, California, USA
 #March, 2020
-#updated: January 28, 2021
+#updated: January 17, 2023
 
 
 # PROTEIN TURNOVER ANALYSIS
@@ -36,7 +35,7 @@
 #setwd("C:/Users/olingerba/Desktop/TurnoveR Rework/test4/")
 #setwd("C:/Users/olingerba/OneDrive - National Institutes of Health/Desktop/TurnoveR Rework/test5")
 #setwd("C:/Users/olingerba/OneDrive - National Institutes of Health/Desktop/TurnoveR Rework/package2_part4")
-setwd("C:/Users/olingerba/OneDrive - National Institutes of Health/Desktop/TurnoveR Rework/Nick")
+setwd("C:/Users/olingerba/OneDrive - National Institutes of Health/Desktop/TurnoveR Rework")
 # #------------------------------------------------------------------------------------
 #
 
