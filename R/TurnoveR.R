@@ -1,6 +1,6 @@
-#Co-Written by Brad Olinger
+#Co-Written by Brad Olinger, MHS
 #Cameron Wehrfritz
-#and Natan Basisty, PhD
+#and Nathan Basisty, PhD
 #Schilling Lab, Buck Institute for Research on Aging
 #Novato, California, USA
 #March, 2020
